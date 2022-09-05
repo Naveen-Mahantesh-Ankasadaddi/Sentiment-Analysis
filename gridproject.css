@@ -1,0 +1,39 @@
+.main-nav{
+  background-color: yellow;
+  font-size: 20px;
+  /* font-style: italic; */
+  /* text-align: center; */
+  height: 100px;
+
+  padding: 5px;
+}
+Flexcontainer{
+  display: grid;
+  /* grid-template-auto: auto;
+  grid-template-columns: repeat(auto-fit minmax(200px,1fr)) */
+}
+
+ul{
+  align-items: center;
+  display: flex;
+  list-style: none;
+
+}
+li{
+  align-items: center;
+  margin: auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+.Container{
+  background-color: orange;
+  display: flex;
+}
+
+p{
+  font-size: 20px;
+  font-family: inherit;
+}

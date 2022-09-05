@@ -1,0 +1,36 @@
+.Container{
+  border: 3px solid blue;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding: 3px;
+
+
+}
+
+.box1{
+  border: 2px solid red;
+  padding: 10px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  padding: 10px;
+
+
+}
+
+.box2{
+  border: 2px solid red;
+  padding: 10px;
+  flex-grow: 0;
+  flex-shrink: 0;
+
+
+}
+
+.box3{
+  border: 2px solid red;
+  padding: 10px;
+  flex-grow: 0;
+  flex-shrink: 0;
+
+}
